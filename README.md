@@ -79,7 +79,7 @@ If a version number appears, installation is successful.
 
 **Option B: Git Clone**
 
-	git clone [https://github.com/yourusername/flappy-bird.git (https://github.com/yourusername/flappy-bird.git)
+	git clone [https://github.com/yourusername/flappy-bird.git]
 	cd flappy-bird
 
 ### Step 4: Run the Game
